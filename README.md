@@ -12,10 +12,10 @@ I biult a financial database and web application by using SQL, Python, and the V
 
    
 ###### Tools
-import numpy as np
-import pandas as pd
-import hvplot.pandas
-import sqlalchemy
+- import numpy as np
+- import pandas as pd
+- import hvplot.pandas
+- import sqlalchemy
 
 ---
 
